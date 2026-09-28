@@ -24,3 +24,6 @@ tmp/
 # Operating system files
 .DS_Store
 Thumbs.db
+
+# Generated speech recordings
+lab04/audio/*.mp3
